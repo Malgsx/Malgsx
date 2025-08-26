@@ -33,11 +33,11 @@
 
 <h4 align="left">LLM Models:</h4>
 <p align="left">
-<a href="https://ollama.com" target="_blank" rel="noreferrer"><img src="https://ollama.com/favicon.ico" alt="Ollama" width="40" height="40"/></a>
-<a href="https://chat.openai.com" target="_blank" rel="noreferrer"><img src="https://chat.openai.com/favicon.ico" alt="ChatGPT" width="40" height="40"/></a>
-<a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="https://claude.ai/favicon.ico" alt="Claude" width="40" height="40"/></a>
-<a href="https://venice.ai" target="_blank" rel="noreferrer"><img src="https://venice.ai/favicon.ico" alt="Venice.AI" width="40" height="40"/></a>
-<a href="https://qwen.ai" target="_blank" rel="noreferrer"><img src="https://qwen.ai/favicon.ico" alt="Qwen" width="40" height="40"/></a>
+<img src="assets/llm/ollama.ico" alt="Ollama" width="40" height="40"/>
+<img src="assets/llm/chatgpt.ico" alt="ChatGPT" width="40" height="40"/>
+<img src="assets/llm/claude.ico" alt="Claude" width="40" height="40"/>
+<img src="assets/llm/venice.ico" alt="Venice.AI" width="40" height="40"/>
+<img src="assets/llm/qwen.ico" alt="Qwen" width="40" height="40"/>
 </p>
 
 
