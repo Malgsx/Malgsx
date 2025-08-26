@@ -33,8 +33,8 @@
 
 <h4 align="left">LLM Models:</h4>
 <p align="left">
-<img src="assets/llm/ollama.svg" alt="Ollama" width="40" height="40"/>
-<img src="assets/llm/chatgpt.png" alt="ChatGPT" width="40" height="40"/>
+<img src="assets/llm/ollama.png" alt="Ollama" width="40" height="40"/>
+<img src="assets/llm/chatgpt.svg" alt="ChatGPT" width="40" height="40"/>
 <img src="assets/llm/claude.png" alt="Claude" width="40" height="40"/>
 <img src="assets/llm/venice.png" alt="Venice.AI" width="40" height="40"/>
 <img src="assets/llm/qwen.png" alt="Qwen" width="40" height="40"/>
