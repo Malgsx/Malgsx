@@ -32,6 +32,12 @@
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h4 align="left">LLM Models:</h4>
-<p align="left"> <a href="https://ollama.ai" target="_blank" rel="noreferrer">Ollama</a> <a href="https://chat.openai.com" target="_blank" rel="noreferrer">ChatGPT</a> <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer">Claude</a> <a href="https://venice.ai" target="_blank" rel="noreferrer">Venice.AI</a> <a href="https://qwen.ai" target="_blank" rel="noreferrer">Qwen</a> </p>
+<p align="left">
+<a href="https://ollama.com" target="_blank" rel="noreferrer"><img src="https://ollama.com/favicon.ico" alt="Ollama" width="40" height="40"/></a>
+<a href="https://chat.openai.com" target="_blank" rel="noreferrer"><img src="https://chat.openai.com/favicon.ico" alt="ChatGPT" width="40" height="40"/></a>
+<a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="https://claude.ai/favicon.ico" alt="Claude" width="40" height="40"/></a>
+<a href="https://venice.ai" target="_blank" rel="noreferrer"><img src="https://venice.ai/favicon.ico" alt="Venice.AI" width="40" height="40"/></a>
+<a href="https://qwen.ai" target="_blank" rel="noreferrer"><img src="https://qwen.ai/favicon.ico" alt="Qwen" width="40" height="40"/></a>
+</p>
 
 
