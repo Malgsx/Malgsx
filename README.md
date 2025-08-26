@@ -25,10 +25,13 @@
 <p align="left">
 <a href="https://twitter.com/malgsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malgsx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamalhinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamalhinton" height="30" width="40" /></a>
-<a href="https://medium.com/@jamal.hinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jamal.hinton" height="30" width="40" /></a>
+<a href="https://substack.com/profile/30530873-jamal-hinton?utm_campaign=profile&utm_medium=profile-page" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/substack.svg" alt="Substack" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h4 align="left">LLM Models:</h4>
+<p align="left"> <a href="https://ollama.ai" target="_blank" rel="noreferrer">Ollama</a> <a href="https://chat.openai.com" target="_blank" rel="noreferrer">ChatGPT</a> <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer">Claude</a> <a href="https://venice.ai" target="_blank" rel="noreferrer">Venice.AI</a> <a href="https://qwen.ai" target="_blank" rel="noreferrer">Qwen</a> </p>
 
 
